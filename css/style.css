@@ -1,0 +1,22 @@
+header{
+    background-color: black;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    padding: 50px;
+}
+h1{
+    align-items: center;
+}
+h2{
+    font-weight: bold;
+    color: blueviolet;
+}
+nav ul li{
+	background-color: #ECFF4D;
+    color: black;
+	padding:10px;
+	width:50%;
+	display: inline-block;
+	width: 20%;
+}
